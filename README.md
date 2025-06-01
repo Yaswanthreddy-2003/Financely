@@ -1,35 +1,20 @@
-# React Financial Tracker App with Firebase
+# Financely
 
 ## Project Description
 This is a full-stack React financial tracker application that allows users to track their financial transactions. The app uses Firebase as the backend for data storage and authentication. It also incorporates Ant Design components for UI, react-apexchart for data visualization, and CRUD operations on Firebase for managing financial records.
 
 ## Table of Contents
 1. [Project Overview](#project-overview)
-2. [Demo](#demo)
-3. [Technologies Used](#technologies-used)
-4. [Setup and Installation](#setup-and-installation)
-5. [Features](#features)
-6. [Usage](#usage)
+2. [Technologies Used](#technologies-used)
+3. [Setup and Installation](#setup-and-installation)
+4. [Features](#features)
+5. [Usage](#usage)
 
 ## Project Overview
 The React Financial Tracker App is designed to help users keep track of their income and expenses. Users can add, edit, delete transactions, and view their financial data in the form of charts.
 
-## Demo
-https://github.com/Ajay-Chaudhari01001/Financely/assets/55138445/a792125e-7ddb-4f0b-a1a4-db28a59b9f92
-
 #### Live Link - https://financetracker22.netlify.app/
 
-## Technologies Used
-- react: "18.2.0",
-- firebase: "10.0.0",
-- antd: "5.7.0",
-- moment: "2.29.4",
-- papaparse: "5.4.1",
-- react-apexcharts: "1.4.1",
-- react-firebase-hooks: "5.1.1",
-- react-icons: "4.10.1",
-- react-router-dom: "6.14.1",
-- react-toastify: "9.1.3",
 
 ## Setup and Installation
 1. Clone the repository:
